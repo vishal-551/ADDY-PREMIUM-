@@ -1,0 +1,1 @@
+"""healthcheck module scaffold."""
